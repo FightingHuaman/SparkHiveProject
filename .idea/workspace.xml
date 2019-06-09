@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sparkSqlHive:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b65492e5-c236-4ee6-bc63-06ad6ff7ac82" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1404701583">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="318" />
+          <entry key="xml" value="110" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="318" />
+          <entry key="XML" value="110" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="2" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="Manifest" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-554694109">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.51" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="150" />
+          <entry key="log" value="39" />
+          <entry key="md" value="3" />
+          <entry key="properties" value="646" />
+          <entry key="scala" value="3335" />
+          <entry key="txt" value="345" />
+          <entry key="xml" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="150" />
+          <entry key="Log" value="39" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="345" />
+          <entry key="Properties" value="646" />
+          <entry key="Scala" value="3335" />
+          <entry key="XML" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="class" value="3" />
+          <entry key="crc" value="4" />
+          <entry key="csv" value="10" />
+          <entry key="demoDBproperties" value="1" />
+          <entry key="dfyx_jmhs_pos_log" value="1" />
+          <entry key="java" value="15" />
+          <entry key="log" value="58" />
+          <entry key="md" value="1" />
+          <entry key="properties" value="39" />
+          <entry key="propertiesbackup" value="1" />
+          <entry key="scala" value="25" />
+          <entry key="txt" value="34" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="15" />
+          <entry key="Log" value="20" />
+          <entry key="Manifest" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="89" />
+          <entry key="Properties" value="39" />
+          <entry key="Scala" value="25" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="812498770">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="txt" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="726584593">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scala" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/dfyx_dcjy_url2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144">
+              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding>
+                <element signature="e#1154#3360#0" />
+                <element signature="e#3434#4077#0" />
+                <element signature="e#4082#4485#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>|</find>
+      <find>zba_dwa</find>
+      <find>'</find>
+      <find>;</find>
+      <find>myconfig.</find>
+      <find>myconfig</find>
+      <find>123</find>
+      <find>printSchema</find>
+      <find>这是在spark程序中使用的日志</find>
+      <find>logInfo</find>
+      <find>log</find>
+      <find>baidu.com</find>
+      <find>sql</find>
+      <find>原始</find>
+      <find>dwa_v_d_cus_cb_sing_use</find>
+      <find>?</find>
+      <find>dwa_v_d_cu</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/hive-site.xml" />
+        <option value="$PROJECT_DIR$/url.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/sparktxt.java" />
+        <option value="$PROJECT_DIR$/demoDB.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/hiveSql.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/demoDB.properties" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/URL筛选规则.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/Log4jUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j-defaults.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/propertiesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparkTestScala5.scala" />
+        <option value="$PROJECT_DIR$/myconfig.properties" />
+        <option value="$PROJECT_DIR$/output/error.log" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/output/info.log" />
+        <option value="$PROJECT_DIR$/src/main/scala/dfyx_dcjy_url.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparkTestScala2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparkTestScala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/test.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/dfyx_dcjy_url2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparkTestScala3.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sparkSqlHive" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sparkSqlHive" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sparkSqlHiveNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkSqlHiveNew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkSqlHiveNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkSqlHiveNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkSqlHiveNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkSqlHiveNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkSqlHiveNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkSqlHiveNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="sparksqlhive" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560052391853" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5344828" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace\sparkSqlHive\src\main\scala" />
+      <recent name="D:\IDEAworkspace\sparkSqlHive" />
+      <recent name="D:\IDEAworkspace\sparkSqlHive\src\main\resources" />
+      <recent name="D:\IDEAworkspace\sparkSqlHive\src\main\java" />
+      <recent name="C:\idea_software\sparkSqlHive\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace\sparkSqlHive\src\main\resources" />
+      <recent name="D:\IDEAworkspace\sparkSqlHive" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sparkSqlHive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="propertiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="propertiesTest" />
+      <module name="sparkSqlHive" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scala5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dfyx_dcjy_url" />
+      <module name="sparkSqlHive" />
+      <option name="PROGRAM_PARAMETERS" value="D:\IDEAworkspace\sparkSqlHive\url.txt D:\IDEAworkspace\sparkSqlHive\result.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparkTestScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sparkTestScala" />
+      <module name="sparkSqlHive" />
+      <option name="PROGRAM_PARAMETERS" value="D:\IDEAworkspace\sparkSqlHive\url.txt D:\IDEAworkspace\sparkSqlHive\result2.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparkTestScala2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sparkTestScala2" />
+      <module name="sparkSqlHive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparkTestScala3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sparkTestScala3" />
+      <module name="sparkSqlHive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparkTestScala" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sparkTestScala" />
+      <module name="sparkSqlHive" />
+      <option name="PROGRAM_PARAMETERS" value="D:\IDEAworkspace\sparkSqlHive\url.txt D:\IDEAworkspace\sparkSqlHive\result.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="sparkSqlHive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.scala5" />
+      <item itemvalue="Application.sparkTestScala2" />
+      <item itemvalue="Application.sparkTestScala" />
+      <item itemvalue="Application.propertiesTest" />
+      <item itemvalue="Application.sparkTestScala3" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.propertiesTest" />
+        <item itemvalue="Application.sparkTestScala3" />
+        <item itemvalue="Application.sparkTestScala" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b65492e5-c236-4ee6-bc63-06ad6ff7ac82" name="Default Changelist" comment="" />
+      <created>1551853209073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551853209073</updated>
+      <workItem from="1551853214347" duration="19155000" />
+      <workItem from="1552267337193" duration="6589000" />
+      <workItem from="1552440817785" duration="5718000" />
+      <workItem from="1552531534627" duration="40000" />
+      <workItem from="1552612530154" duration="8745000" />
+      <workItem from="1552976991106" duration="11085000" />
+      <workItem from="1553479171392" duration="22560000" />
+      <workItem from="1553563021206" duration="31209000" />
+      <workItem from="1553823735424" duration="9052000" />
+      <workItem from="1554081871845" duration="23435000" />
+      <workItem from="1554168676117" duration="63365000" />
+      <workItem from="1554687158979" duration="36175000" />
+      <workItem from="1557559118746" duration="963000" />
+      <workItem from="1557819681128" duration="336000" />
+      <workItem from="1557837821027" duration="122000" />
+      <workItem from="1560051695579" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="239243000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924585" visible="true" weight="0.15616623" />
+      <window_info id="Structure" order="1" sideWeight="0.5007542" side_tool="true" weight="0.16471216" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="设计器" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.44588745" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22510822" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.41774893" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32969603" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.3300866" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.03552279" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="调色板" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49924585" visible="true" weight="0.15085287" />
+      <window_info id="Structure" order="1" sideWeight="0.5007542" side_tool="true" weight="0.16471216" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="设计器" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.44588745" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3452381" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.41774893" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32969603" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.3300866" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="5" visible="true" weight="0.075159915" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="调色板" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/userUrl.csv/part-00001-d3f78083-7460-4bbd-bc0c-90a22c0ddd3b-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/userUrl.csv/part-00000-d3f78083-7460-4bbd-bc0c-90a22c0ddd3b-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/userUrl.csv/part-00000-3b73ed77-242a-483b-a293-0da0c97e047d-c000.csv" />
+    <entry file="jar://D:/program files/Java/jdk1.8.0_144/src.zip!/java/io/FileInputStream.java" />
+    <entry file="file://$PROJECT_DIR$/userUrl.csv/part-00000-1d1a5760-24ab-437e-8efe-607c3b245eef-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/userUrl.csv/part-00000-73a89690-a042-4101-9a24-c72d5261aacd-c000.csv" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.2.0/spark-sql_2.11-2.2.0.jar!/org/apache/spark/sql/DataFrameWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j/error.log" />
+    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiveSql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/myconfigproperties.txt" />
+    <entry file="file://$PROJECT_DIR$/target/classes/output/info.log" />
+    <entry file="file://$PROJECT_DIR$/log4j/info.log" />
+    <entry file="file://$PROJECT_DIR$/info.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/output/info.log" />
+    <entry file="file://$PROJECT_DIR$/outputDir/dfyx_jmhs_pos/dfyx_jmhs_pos_log" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0.jar!/org/apache/spark/internal/Logging.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt/part-00000-3d865d84-9829-44a5-b194-5c6d7fec6ed3-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j-defaults.properties" />
+    <entry file="file://$PROJECT_DIR$/readme.txt" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0.jar!/org/apache/spark/log4j-defaults.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sparktxt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt/part-00000-8c240986-38c5-4026-8848-54aac8c3d085-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/result.txt/part-00000-105481af-97ce-49a0-8daf-847a8b20833f-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/result.txt/part-00000-ed663adf-6fad-4269-9f10-6820e6a5ffb9-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/result.txt/part-00000-ab4e7c64-8ee0-4ff3-bd12-8d92151c5a41-c000.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Log4jUtil.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hive-site.xml" />
+    <entry file="file://$PROJECT_DIR$/result.txt/part-00000-230e6665-c449-4a70-a7cb-8095065cd16d-c000.txt" />
+    <entry file="file://$PROJECT_DIR$/myconfigbackup.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/propertiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/URL筛选规则.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/info.log_2019-04-04.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties.txt" />
+    <entry file="file://$PROJECT_DIR$/result.txt/part-00000-da2c6acd-d018-469c-9c58-34ed7c4a336b-c000.txt" />
+    <entry file="file://$PROJECT_DIR$/output/info.log" />
+    <entry file="file://$PROJECT_DIR$/output/error.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/myconfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myconfig.properties.txt" />
+    <entry file="file://$PROJECT_DIR$/output/dfyx_out.txt" />
+    <entry file="file://$PROJECT_DIR$/url.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
+    <entry file="file://$PROJECT_DIR$/myconfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dfyx_dcjy_url.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sparkTestScala2.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sparkTestScala.scala" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sparkTestScala3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="158" column="5" lean-forward="true" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dfyx_dcjy_url2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="e#1154#3360#0" />
+            <element signature="e#3434#4077#0" />
+            <element signature="e#4082#4485#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sparkSqlHive:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sparkSqlHive</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

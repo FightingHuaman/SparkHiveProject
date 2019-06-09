@@ -1,0 +1,29 @@
+#\u5C06\u65E5\u5FD7\u4FE1\u606F\u8F93\u51FA\u5230\u6587\u4EF6\u4E2D\uFF0C
+log4j.rootLogger = INFO,stdout,D,E
+#\u63A7\u5236\u53F0
+log4j.appender.stdout = org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Target = System.out
+log4j.appender.stdout.layout = org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern = [%-5p] %d{yyyy-MM-dd HH:mm:ss,SSS} method:%l%n%m%n
+#
+#info log \u6CE8\u610F\u6587\u4EF6\u8DEF\u5F84
+log4j.appender.D=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.D.DatePattern='_'yyyy-MM-dd'.log'
+log4j.appender.D.File=./output/info.log
+log4j.appender.D.Append=true
+log4j.appender.D.Threshold=INFO
+log4j.appender.D.layout=org.apache.log4j.PatternLayout
+log4j.appender.D.layout.ConversionPattern = %-d{yyyy-MM-dd HH:mm:ss}  [ %t:%r ] - [ %p ]  %m%n
+log4j.appender.D.logFile.Encoding = UTF-8 
+#log4j.logger.sparkTestScala2=INFO
+
+#error
+log4j.appender.E = org.apache.log4j.DailyRollingFileAppender
+log4j.appender.E.File =./output/error.log
+log4j.appender.E.Append = true
+log4j.appender.E.Threshold = ERROR
+log4j.appender.E.layout = org.apache.log4j.PatternLayout
+log4j.appender.E.layout.ConversionPattern = %-d{yyyy-MM-dd HH:mm:ss}  [ %t:%r ] - [ %p ]  %m%n
+
+
+
